@@ -1,2 +1,0 @@
-# BSD
-new BSD
